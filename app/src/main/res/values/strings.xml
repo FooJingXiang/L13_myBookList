@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">myBookList</string>
+    <string name="book_name">Book Name:</string>
+    <string name="book_category">Book Category:</string>
+    <string name="book_author">Book Author:</string>
+    <string name="ratings">Ratings</string>
+    <string name="insert">Insert</string>
+    <string name="show_list">Show List</string>
+    <string name="show">Show 4* and Above</string>
+    <string name="finished_year">Finished Year:</string>
+    <string name="title_activity_main">Insert Book</string>
+    <string name="title_activity_second">Show Book</string>
+    <string name="title_activity_third">Modify the Book</string>
+    <string-array name="spinnerOptions">
+        <item>Novel</item>
+        <item>Light Novel</item>
+        <item>Comics</item>
+        <item>Manga</item>
+        <item>Action</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Comedy</item>
+        <item>Romance</item>
+    </string-array>
+</resources>
